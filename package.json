@@ -1,0 +1,22 @@
+{
+  "name": "DataAPI",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/merry-bits/DataAPI.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "API"
+  ],
+  "author": "merry-bits",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/merry-bits/DataAPI/issues"
+  }
+}
