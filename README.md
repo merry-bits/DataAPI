@@ -114,7 +114,7 @@ workings of the API the [Chrome](http://www.google.com/chrome/) extension
 # Solution
 
 The server is implemented using [NodeJS](https://nodejs.org/) and
-[Express](http://expressjs.com/). The `db` folder in source contains all the
+[Express](http://expressjs.com/). The `db` folder in `src` contains all the
 code for accessing the database. It provides helper functions to read data from
 the tables.
 
