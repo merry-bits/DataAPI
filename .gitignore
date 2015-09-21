@@ -3,3 +3,4 @@
 .settings/
 *.py[cdo]
 __pycache__/
+node_modules/
